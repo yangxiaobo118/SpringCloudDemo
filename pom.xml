@@ -15,5 +15,7 @@
   	<module>spring-cloud-service-zipkin</module>
   	<module>spring-cloud-client-zipkin</module>
   	<module>spring-cloud-client2-zipkin</module>
+  	<module>spring-cloud-service-lucy</module>
+  	<module>spring-cloud-service-turbine</module>
   </modules>
 </project>
